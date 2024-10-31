@@ -16,7 +16,7 @@ Strategia strusia, czyli chowania głowy w piasek i ignorowania wyzwań, nie pro
 Jedynie działanie pozwala na osiągnięcie sukcesu, i to jest naszym celem w projekcie Polska 4.0.
 
 
-## Nie jesteś jeszcze w projekcie? To zgłos się!
+## Nie jesteś jeszcze w projekcie? To zgłoś się!
 
 Tylko aktywni i myślący mają wpływ na przyszłość. Aby w pełni wykorzystać szanse, jakie daje rozwój technologii, 
 musimy działać w celu uaktywnienia jak największej liczby osób i oddolnych incjatwy. 
