@@ -21,6 +21,8 @@ Jedynie działanie pozwala na osiągnięcie sukcesu, i to jest naszym celem w pr
 Tylko aktywni i myślący mają wpływ na przyszłość. Aby w pełni wykorzystać szanse, jakie daje rozwój technologii, 
 musimy działać w celu uaktywnienia jak największej liczby osób i oddolnych incjatwy. 
 
+Klinknij ten link żeby dołaczyć do nas na serweże Discord
+[Discord](https://discord.gg/3f8HCVgw)
 
 ## Aktywne pod-projekty
 
