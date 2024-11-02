@@ -22,6 +22,8 @@ Tylko aktywni i myślący mają wpływ na przyszłość. Aby w pełni wykorzysta
 musimy działać w celu uaktywnienia jak największej liczby osób i oddolnych incjatwy. 
 
 
+Klinknij ten link żeby dołaczyć do nas na serweże [Discord](https://discord.gg/t3FhBJYFmd)
+
 ## Aktywne pod-projekty
 
 [Analiza Strategii Cyfryzacji do 2035](https://github.com/orgs/Polska-4-0/projects/2)
